@@ -1,4 +1,6 @@
 ---
 title: Contact
 ---
-Bel me schrijf me laat me toch iets weten....
+Mail ons: schakelretie@gmail.com
+
+Of vul het contact formulier in.
