@@ -11,7 +11,7 @@ Schakel Retie zoekt vrijwilligers en sponsers! <br>
 
 <li>Voor de financiering van onze activiteiten kunnen we beperkt rekenen op subsidies. <br>Deze zijn echter ontoereikend voor onze werking. <br>Wil je Schakel Retie financieel steunen? </li>
 
-</ul></p>
+</p></ul>
 
 Aarzel niet ons te contacteren: schakelretie@gmail.com.
 
