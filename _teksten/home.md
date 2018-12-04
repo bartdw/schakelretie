@@ -2,7 +2,7 @@
 title: Home
 ---
 ```
-<COLOR="#FF0000" FACE="Courier New">
+<FONT COLOR="#FF0000" FACE="Courier New">
 ```
 
 ```
