@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-<FONT SIZE="" COLOR="#FFFFFF" FACE="Courier New">
+<FONT SIZE="+2" COLOR="#FFFFFF" FACE="">
 
 De meeste mensen hebben het goed. 
 
