@@ -3,10 +3,15 @@ title: Doe mee!
 ---
 <p style="text-align: left;">
 
-Schakel Retie zoekt vrijwilligers en sponsers!
+Schakel Retie zoekt vrijwilligers en sponsers! <br>
 
-* Voel je je geroepen om een handje toe te steken… Je bent van harte welkom! 
-* Voor de financiering van onze activiteiten kunnen we beperkt rekenen op subsidies. <br>Deze zijn echter ontoereikend voor onze werking. <br>Wil je Schakel Retie financieel steunen? 
+<ul>
+
+<li>Voel je je geroepen om een handje toe te steken… Je bent van harte welkom! </li>
+
+<li>Voor de financiering van onze activiteiten kunnen we beperkt rekenen op subsidies. <br>Deze zijn echter ontoereikend voor onze werking. <br>Wil je Schakel Retie financieel steunen? </li>
+
+</ul>
 
 Aarzel niet ons te contacteren: schakelretie@gmail.com.
 
