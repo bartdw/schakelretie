@@ -5,11 +5,11 @@ title: Home
 
 De meeste mensen hebben het goed. 
 
-Ze hebben alle redenen om gelukkig te zijn in ons land.
+Ze hebben alle redenen om gelukkig te zijn in ons land.<br>
 
-Helaas…
+Helaas…<br>
 
-vallen nog teveel mensen “uit de boot”, door werkloosheid, ziekte, financiële of familiale problemen…
+vallen nog teveel mensen “uit de boot”, door werkloosheid, ziekte, financiële of familiale problemen…<br>
 
 Voor deze mensen willen we er zijn !
 
