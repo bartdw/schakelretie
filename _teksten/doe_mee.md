@@ -1,7 +1,7 @@
 ---
 title: Doe mee!
 ---
-Schakel Retie zoekt vrijwilligers en sponsers! <br>
+Schakel Retie zoekt vrijwilligers en sponsors! <br>
 
 <ul>
 
