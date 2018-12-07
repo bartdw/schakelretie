@@ -5,7 +5,7 @@ title: Contact
 
 Heb je een vraag? <br><br>
 
-Wil je op geinformeerd worden over onze activiteiten? <br><br>
+Wil je geinformeerd worden over onze activiteiten? <br><br>
 
 Vul dan dit contact formulier in.<br><br>
 
