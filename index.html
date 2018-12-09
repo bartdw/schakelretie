@@ -81,8 +81,6 @@ sitenaam: Schakel Retie
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">{{ tekst.title }}</h2>
-            <hr class="light my-4">
             <p class="text-faded mb-4">{{ tekst.content }}</p>
           </div>
         </div>
@@ -107,7 +105,27 @@ sitenaam: Schakel Retie
                   <div class="card text-left bg-light">
                     <div class="card-body">
                       <div class="card-title font-weight-bold">{{ activiteit.title }}</div>
-                      <div class="card-subtitle mb-2 text-muted">{{ activiteit.tijdstip }}</div>
+                      <div class="card-subtitle mb-2 text-muted">
+
+                        {% assign m = activiteit.tijdstip | date: "%-m" %}
+                        {{ activiteit.tijdstip | date: "%-d" }}
+                        {% case m %}
+                          {% when '1' %}januari
+                          {% when '2' %}februari
+                          {% when '3' %}maart
+                          {% when '4' %}april
+                          {% when '5' %}mei
+                          {% when '6' %}juni
+                          {% when '7' %}juli
+                          {% when '8' %}augustus
+                          {% when '9' %}september
+                          {% when '10' %}oktober
+                          {% when '11' %}november
+                          {% when '12' %}december
+                        {% endcase %}
+                        {{ activiteit.tijdstip | date: "%Y" }}
+
+                      </div>
                       <div class="card-subtitle mb-2 text-muted">{{ activiteit.plaats }}</div>
                       <p class="card-text">{{ activiteit.content }}</p>
                     </div>
