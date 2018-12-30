@@ -1,9 +1,9 @@
 ---
 title: Home
 ---
-<FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
+<FONT SIZE="+2" COLOR="#FFFFFF" FACE="">
 
-De meeste mensen hebben het goed. 
+De meeste mensen hebben het goed. <br>
 
 Ze hebben alle redenen om gelukkig te zijn in ons land.<br>
 
