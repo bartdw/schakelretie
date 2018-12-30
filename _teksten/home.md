@@ -1,8 +1,6 @@
 ---
 title: Home
 ---
-![](/images/schakelretie_logo_150px.png)
-
 <FONT SIZE="+2" COLOR="#FFFFFF" FACE="">
 
 De meeste mensen hebben het goed. 
