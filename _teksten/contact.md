@@ -13,8 +13,4 @@ Door het invullen van het contactformulier ga je akkoord met onze privacy regels
 
 <br>
 
-<a href=<https://www.facebook.com/schakelretie.retie> target="_blank" title="Facebook">
-
-</a>
-
 </FONT>
