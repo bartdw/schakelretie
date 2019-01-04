@@ -13,6 +13,6 @@ Door het invullen van het contactformulier ga je akkoord met onze privacy regels
 
 <br>
 
-<https://www.facebook.com/schakelretie.retie>?ref=facebook
+<a href="<https://www.facebook.com/schakelretie.retie>" title="Facebook" target="_self">facebook</a>
 
 </FONT>
