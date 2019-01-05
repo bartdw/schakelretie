@@ -13,6 +13,6 @@ Door het invullen van het contactformulier ga je akkoord met onze privacy regels
 
 <br>
 
-<a class="icon icon-facebook" href="https://www.facebook.com/welzijnszorgvzw" target="_blank">Facebook</a>
-
 </FONT>
+
+<a class="icon icon-facebook" href="https://www.facebook.com/schakelretie.retie" target="_blank">Facebook</a>
