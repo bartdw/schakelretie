@@ -9,7 +9,7 @@ Wil je geinformeerd worden over onze activiteiten? <br><br>
 
 Vul dan dit contact formulier in.<br><br>
 
-<a class="f-ogo_rgb_hex-22.png" href="https://www.facebook.com/schakelretie.retie" style="color: #059abd" target="_blank">Facebook</a>
+<a class="f-ogo_rgb_hex-22.png" href="https://www.facebook.com/schakelre<!-- abc@nl -->tie.retie" style="color: #059abd" target="_blank">Facebook</a>
 
 <br>
 
