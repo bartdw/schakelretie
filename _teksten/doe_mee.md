@@ -11,6 +11,6 @@ Schakel Retie zoekt vrijwilligers en sponsors! <br>
 
 </ul>
 
-Aarzel niet ons te contacteren: schakelretie@gmail.com.<br>
+Aarzel niet ons te contacteren: schak<!-- abc@nl -->elretie@gm<!-- abc@nl -->ail.com.<br>
 
 Het rekening nummer van Schakel Retie is BE48 7370 4905 1327
