@@ -1,4 +1,4 @@
 ---
 title: Activiteiten
 ---
-Kijk hier voor het programma van Schakel Retie.
+Kijk hier voor het programma van Schakel Retie!
