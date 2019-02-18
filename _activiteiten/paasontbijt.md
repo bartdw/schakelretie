@@ -7,6 +7,6 @@ plaats: 'De Mantel, Markt 7, 2470 Retie'
 
 **Inschrijven:** is verplicht via de website of kan persoonlijk op vrijdag 12 april tussen 10 en 12u, Markt 8, Retie.
 
-**Basistarief: **5 Euro \*\*.
+**Basistarief:** 5 Euro \*\*.
 
 \*\* Voor deze activiteit kan je beroep doen op de socio-culturele participatie premie van gemeente Retie!
