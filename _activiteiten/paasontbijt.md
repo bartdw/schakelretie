@@ -1,6 +1,6 @@
 ---
 title: Paasontbijt
-tijdstip: 2019-04-22T07:30:00.000Z
+tijdstip: 2019-04-22 07:30
 plaats: 'De Mantel, Markt 7, 2470 Retie'
 ---
 Beschrijving Ontbijten is een gezellig en belangrijk moment van de dag. Op paasmaandag organiseren we een ontbijt voor jong en oud met allerlei lekkere dingen in de grote zaal van De Mantel, tussen 9u30 en 11u30.
