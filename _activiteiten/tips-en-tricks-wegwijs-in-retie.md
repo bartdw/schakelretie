@@ -8,3 +8,5 @@ Ons dorp is niet alleen een plek waar we wonen; we gaan er ook naar school, doen
 Maar weet jij waar je in ons dorp terecht kan voor zaken die meestal vanzelfsprekend zijn zoals: waar is de bibliotheek? Is er ook een fietsbieb? Welke sociale voorzieningen zijn er en hoe kan ik er gebruik van maken?
 
 Tijdens deze ontmoeting willen we je in ons dorp de weg wijzen en tips geven om mee te zijn met allerhande praktische dingen!
+
+Ingang: Gratis
