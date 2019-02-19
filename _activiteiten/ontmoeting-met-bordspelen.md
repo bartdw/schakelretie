@@ -5,4 +5,4 @@ plaats: 'GC Den Dries, Kerkhofstraat 37, 2470 Retie - Vergaderzaal'
 ---
 Gezellig samenzijn met vrijwilligers en mensen uit onze de doelgroep. We zorgen voor koffie, thee, water en enkele versnaperingen. Je kan bijpraten en / of deel nemen aan verschillende bord- en ontspanningsspelletjes, samen met vrijwilligers.
 
-Toegang gratis!
+Prijs: gratis!
