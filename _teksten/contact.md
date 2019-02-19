@@ -9,7 +9,7 @@ Wil je je inschrijven voor activiteiten? <br><br>
 
 Wil je geinformeerd worden over onze activiteiten? <br><br>
 
-Bel ons op 0497 244 701 of vul dit contact formulier in.<br><br>
+Bel ons op 0497 244 701 of... <br> Vul dit contact formulier in.<br><br>
 
 <a class="f-ogo_rgb_hex-22.png" href="https://www.facebook.com/schakelretie.retie" style="color: #059abd" target="_blank">Facebook</a>
 
