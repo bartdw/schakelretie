@@ -9,4 +9,4 @@ Maar weet jij waar je in ons dorp terecht kan voor zaken die meestal vanzelfspre
 
 Tijdens deze ontmoeting willen we je in ons dorp de weg wijzen en tips geven om mee te zijn met allerhande praktische dingen!
 
-Ingang: Gratis
+Prijs: Gratis
