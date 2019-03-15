@@ -15,7 +15,7 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 </FONT>
 
-<FONT SIZE="1" COLOR="#FFFFFF" FACE="">
+<FONT SIZE="+2" COLOR="#FFFFFF" FACE="">
 
 !!! Paasontbijt: in tegenstelling tot de aankondiging in InfoRetie is het alleen mogelijk om persoonlijk in te schrijven op volgende dagen: vrijdag 29 maart, 5 april of 12 april. Zie tab " Activiteiten". !!!
 
