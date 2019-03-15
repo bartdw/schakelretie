@@ -14,3 +14,9 @@ vallen nog teveel mensen “uit de boot”, door werkloosheid, ziekte, financië
 Voor deze mensen willen we er zijn !
 
 </FONT>
+
+<FONT SIZE="-2" COLOR="#FFFFFF" FACE="">
+
+Paasontbijt: in tegenstelling tot de aankondiging in InfoRetie is het alleen mogelijk om persoonlijk in te schrijven op volgende dagen: vrijdag 29 maart, 5 april of 12 april. Zie tab " Activiteiten". 
+
+</FONT>
