@@ -19,7 +19,7 @@ vul dit contact formulier in.<br><br>
 
 <br>
 
-Door het invullen van het contactformulier ga je akkoord met onze privacy regels.<br>
+Door het invullen van het contactformulier ga je akkoord met onze privacy regels. [Zie onze privacy verklaring (versie 22 maart 2019)](https://github.com/bartdw/schakelretie/raw/master/190313%20Schakel%20Retie%20privacyverklaring%20website.pdf)<br>
 
 <br>
 
