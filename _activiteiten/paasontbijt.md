@@ -3,10 +3,13 @@ title: Paasontbijt
 tijdstip: 2019-04-22T07:30:00.000Z
 plaats: 'De Mantel, Markt 7, 2470 Retie'
 ---
-**Beschrijving:** Ontbijten is een gezellig en belangrijk moment van de dag. Op paasmaandag organiseren we een ontbijt voor jong en oud met allerlei lekkere dingen in de grote zaal van De Mantel, tussen 9u30 en 11u30.
+**Beschrijving:** De paashaas staat alvast te popelen om je te ontmoeten. We bieden een uitgebreid ontbijt aan in een gezellig kader.
 
-**Inschrijven:** is verplicht via de website of kan persoonlijk op vrijdag 12 april tussen 10 en 12u, Markt 8, Retie.
+**Inschrijven:** persoonlijk op 3 vrijdagen tussen 9u30 tot 11u30 / Markt 8, Retie:
 
-**Basistarief:** 5 Euro \*\*.
+* Vrijdag 29 maart: inschrijven voor deelnemers met een vrijetijdspas
+* Vrijdagen 5 en 12 april: inschrijven voor deelnemers met of zonder een vrijetijdpas
 
-\*\* Voor deze activiteit kan je beroep doen op de socio-culturele participatie premie van gemeente Retie!
+**Basistarief\*\*:** €5 en €3 voor kinderen onder 12j 
+
+\*\* * Heb je een vrijetijdpas (socio-culturele participatie) uitgegeven door de sociale dienst van de gemeente Retie? Breng hem mee naar de inschrijvingen, je krijgt hiermee korting.
