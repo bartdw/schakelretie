@@ -17,6 +17,6 @@ Je bent van harte welkom!<br>
 
 Aarzel niet ons te contacteren<br>
 
-schakelretie@gmail.com<br>
+Aarzel niet ons te contacteren: schak<!-- abc@nl -->elretie@gm<!-- abc@nl -->ail.com.<br>
 
 </FONT>
