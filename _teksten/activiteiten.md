@@ -1,5 +1,5 @@
 ---
-title: Dodentocht - 9 augustus
+title: Activiteiten
 ---
 ![](/images/dodentocht-1-small.jpg)
 
