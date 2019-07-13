@@ -3,11 +3,9 @@ title: Over ons
 ---
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
 
-Schakel Retie wil mensen bereiken die in armoede leven of die in het dagelijkse leven weinig of geen kansen krijgen, bijvoorbeeld door ziekte, tegenslag, scheiding, migratie... <br><br>
+Schakel Retie wil een warme omgeving bieden waar iedereen terecht kan, ook mensen die in het dagelijkse leven minder kansen krijgen, bijvoorbeeld door ziekte, tegenslag, scheiding, armoede, migratie...   <br>
 
-Door ontspannende en doelgerichte activiteiten te organiseren brengen we mensen bij elkaar. We trachten hun sociaal isolement te doorbreken en een warme omgeving te creëren waarin iedereen van elkaar leert. <br><br>
-
-We willen mensen die zich uitgesloten voelen meer kansen bieden. Wij geloven dat we samen verandering kunnen brengen. <br><br>
+We organizeren ontmoetingen en activiteiten en willen zo mensen bij elkaar  brengen en sociale uitsluiting tegengaan.  <br><br>
 
 Als je denkt dat je nood hebt aan onze groep…<br>
 
