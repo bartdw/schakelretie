@@ -17,6 +17,6 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
 
-<a href="https://github.com/bartdw/schakelretie/raw/master/190729%20Flyer%20en%20agenda.pdf" style="color: #FFFFFF" target="_blank">Download onze flyer activiteiten tweede helft 2019</a>
+<a href="https://github.com/bartdw/schakelretie/raw/master/190729%20Flyer%20en%20agenda.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER - ACTIVITEITEN SCHAKEL RETIE SEP-DEC 2019</a>
 
 </FONT>
