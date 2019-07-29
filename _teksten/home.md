@@ -17,6 +17,6 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <FONT SIZE="+2" COLOR="#FFFFFF" FACE="">
 
-!!! Dodentocht Marcel en vrienden - Marcel Moons en vrienden stappen de 100km lange dodentocht en schenken opbrengst aan Schakel Retie" !!!
+<a href="https://github.com/bartdw/schakelretie/blob/master/190729%20Flyer%20en%20agenda.pdf" style="color: #059abd" target="_blank">Download onze flyer</a>
 
 </FONT>
