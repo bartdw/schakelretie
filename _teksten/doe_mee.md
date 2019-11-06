@@ -5,7 +5,9 @@ Schakel Retie zoekt vrijwilligers en sponsors! <br>
 
 <ul>
 
-<li>Voel je je geroepen om een handje toe te steken… Je bent van harte welkom! </li>
+<li>Voel je je geroepen om een handje toe te steken… Je bent van harte welkom! </li><br>
+
+
 
 <li>Wil je Schakel Retie financieel steunen? </li>
 
