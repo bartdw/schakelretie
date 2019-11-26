@@ -7,9 +7,9 @@ plaats: 'De Mantel, Markt 8 Retie'
 
 Schakel Retie organiseert Soep op de Stoep: 
 
-op zondag 1 december tussen 11u en 12u30
+op **zondag 1 december tussen 11u en 12u30**
 
-In het portaal van De Mantel, Markt 8, Retie
+in het portaal van De Mantel, Markt 8, Retie
 
 kan je genieten van een warme kop soep.
 
