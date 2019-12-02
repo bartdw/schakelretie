@@ -13,6 +13,8 @@ vallen nog teveel mensen “uit de boot”, door werkloosheid, ziekte, financië
 
 Voor deze mensen willen we er zijn ! <br><br>
 
+[Nieuwjaarsetentje 4 januari 2020 - inschrijven](https://www.cognitoforms.com/SchakelRetie/AanvraagInschrijvingActiviteitSchakelRetie)  <br>
+
 </FONT>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
