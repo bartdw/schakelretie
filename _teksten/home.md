@@ -13,11 +13,11 @@ vallen nog teveel mensen “uit de boot”, door werkloosheid, ziekte, financië
 
 Voor deze mensen willen we er zijn ! <br><br>
 
-[Nieuwjaarsetentje 4 januari 2020 - inschrijven](https://www.cognitoforms.com/SchakelRetie/AanvraagInschrijvingActiviteitSchakelRetie)  <br>
-
 </FONT>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
+
+<a href="https://www.cognitoforms.com/SchakelRetie/AanvraagInschrijvingActiviteitSchakelRetie" style="color: #FFFFFF" target="_blank">Nieuwjaarsetentje 4 januari 2020 - hier inschrijven</a>
 
 <a href="https://github.com/bartdw/schakelretie/raw/master/190729%20Flyer%20en%20agenda.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER - ACTIVITEITEN SCHAKEL RETIE SEP-DEC 2019</a>
 
