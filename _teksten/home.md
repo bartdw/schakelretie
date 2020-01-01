@@ -19,6 +19,6 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <a href="https://www.cognitoforms.com/SchakelRetie/AanvraagInschrijvingActiviteitSchakelRetie" style="color: #FFFFFF" target="_blank">NIEUWJAARSETENTJE 4 JANUARI 2020 - HIER INSCHRIJVEN</a> <br>
 
-<a href="https://github.com/bartdw/schakelretie/raw/master/190729%20Flyer%20en%20agenda.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER - ACTIVITEITEN SCHAKEL RETIE SEP-DEC 2019</a>
+<a href="https://github.com/bartdw/schakelretie/raw/master/191226 Flyer.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER</a>
 
 </FONT>
