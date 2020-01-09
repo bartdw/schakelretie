@@ -1,6 +1,6 @@
 ---
 title: Inloopmoment
-tijdstip: 2019-08-01T07:30:00.000Z
+tijdstip: 2020-01-03T08:30:00.000Z
 plaats: 'Parochiehuis, Markt 8 te Retie'
 ---
 Gezellig ontmoeten  en praten bij een gratis tasje koffie of thee.
