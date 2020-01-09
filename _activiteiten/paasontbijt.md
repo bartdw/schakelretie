@@ -1,7 +1,7 @@
 ---
 title: Paasontbijt
 tijdstip: 2020-04-13T07:00:00.000Z
-plaats: 'De Mantel, Markt 7, Retie'
+plaats: 'De Mantel, Markt 7, Retie - 9 tot 11  u'
 ---
 Op paasmaandag organiseren we een lekker ontbijt voor jong en oud. Vooraf inschrijven tijdens inloopmoment of via schakelretie.be.
 
