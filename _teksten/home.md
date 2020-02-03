@@ -17,6 +17,8 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
 
+<a href="https://www.cognitoforms.com/SchakelRetie/InschrijvingActiviteitSchakelRetie2" style="color: #FFFFFF" target="_blank">HIER INSCHRIJVEN VOOR ACTIVITEITEN</a> <br>
+
 <a href="https://github.com/bartdw/schakelretie/raw/master/200102 Flyer.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER</a>
 
 </FONT>
