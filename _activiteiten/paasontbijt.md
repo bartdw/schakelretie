@@ -6,3 +6,5 @@ plaats: 'De Mantel, Markt 7, Retie - 9 tot 11  u'
 Op paasmaandag organiseren we een lekker ontbijt voor jong en oud. Vooraf inschrijven tijdens inloopmoment of via schakelretie.be.
 
 Prijs\*\*: €5 (volw) / €3 (kind) - Je kan 80% korting bekomen met je “vrijetijds pas” uitgegeven door sociale dienst van de gemeente Retie.
+
+[Hier kan je inschrijven voor Paasontbijt !](https://www.cognitoforms.com/SchakelRetie/AanvraagInschrijvingPaasontbijt)
