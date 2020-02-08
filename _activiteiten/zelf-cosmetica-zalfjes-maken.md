@@ -6,3 +6,5 @@ plaats: 'Hazenstraat 2, Retie - 14u'
 We maken in kleine groepjes cosmetica zalfjes op basis van natuurproducten en krijgen vakkundige uitleg over hun gebruik. Vooraf inschrijven tijdens inloopmoment of via schakelretie.be.
 
 prijs: 5 Euro - Je kan 80% korting bekomen met je “vrijetijds pas” uitgegeven door sociale dienst van de gemeente Retie.
+
+[Hier kan je inschrijven !](https://www.cognitoforms.com/SchakelRetie/InschrijvingActiviteitSchakelRetie2)
