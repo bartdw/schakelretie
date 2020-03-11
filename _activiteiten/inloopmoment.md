@@ -11,4 +11,4 @@ Wekelijks een vrij inloop moment op
 
 \* vrijdag van 9.30u tot 11.30u, Parochiehuis, Markt 8 te Retie.
 
-![](/images/koffie-1.jpg)
+![]()
