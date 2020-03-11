@@ -18,3 +18,11 @@ Aarzel niet ons te contacteren<br>
 Aarzel niet ons te contacteren: schak<!-- abc@nl -->elretie@gm<!-- abc@nl -->ail.com.<br>
 
 </FONT>
+
+<br><br>
+
+<FONT SIZE="-1" COLOR="#FFFFFF" FACE="">
+
+(c) Schakel Retie vzw - Ondernemings nr: 0742 808 677 - RPR Antwerpen Afd Turnhout - schak<!-- abc@nl -->elretie@gm<!-- abc@nl -->ail.com
+
+</FONT>
