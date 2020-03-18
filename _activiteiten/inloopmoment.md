@@ -3,7 +3,7 @@ title: Inloopmoment
 tijdstip: 2020-01-03T08:30:00.000Z
 plaats: Retie
 ---
-*\- In verband met corona worden inloop momenten opgeschort. <br>Ze worden vervangen door alternatieve gesprekken via telefoon of computer.*  <br> *Wil je een babbel, stuur ons sms of mail.* <br>
+*\- In verband met corona worden inloop momenten opgeschort. <br>Ze worden vervangen door alternatieve gesprekken via telefoon of computer.*  <br> *Wil je een babbel(op afstand), stuur ons sms of mail.* <br>
 
 Gezellig ontmoeten  en praten bij een gratis tasje koffie of thee.
 
