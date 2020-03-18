@@ -17,7 +17,7 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
 
-*In verband met corona zijn alle groepsactiviteiten en inloop momenten opgeschort. Wil je een babbel, stuur ons een sms of mail.*
+IN VERBAND MET CORONA ZIJN ONZE GROEPSACTIVITEITEN EN INLOOPMOMENTEN OPGESCHORT.<br>WIL JE EEN BABBEL(OP AFSTAND), STUUR ONS EEN SMS OF MAIL.*<br>*
 
 <a href="https://github.com/bartdw/schakelretie/raw/master/200102 Flyer.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER</a>
 
