@@ -17,9 +17,7 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
 
-<a href="https://www.cognitoforms.com/SchakelRetie/InschrijvingActiviteitSchakelRetie2" style="color: #FFFFFF" target="_blank">HIER INSCHRIJVEN VOOR ACTIVITEIT 18 FEB</a> <br>
-
-<a href="https://www.cognitoforms.com/SchakelRetie/AanvraagInschrijvingPaasontbijt" style="color: #FFFFFF" target="_blank">HIER INSCHRIJVEN VOOR PAASONTBIJT</a> <br>
+*In verband met corona zijn alle groepsactiviteiten en inloop momenten opgeschort. Wil je een babbel, stuur ons een sms of mail.*
 
 <a href="https://github.com/bartdw/schakelretie/raw/master/200102 Flyer.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER</a>
 
