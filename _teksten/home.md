@@ -17,7 +17,7 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
 
-\* IN VERBAND MET CORONA ZIJN ONZE GROEPSACTIVITEITEN EN INLOOPMOMENTEN OPGESCHORT<br>
+\* IN VERBAND MET CORONA ZIJN ONZE GROEPSACTIVITEITEN OPGESCHORT<br>
 
 \* <a href="https://github.com/bartdw/schakelretie/raw/master/200102 Flyer.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER</a>
 
