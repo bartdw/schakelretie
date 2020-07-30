@@ -9,6 +9,6 @@ Wekelijks een vrij inloop moment op
 
 \* maandag van 19u tot 21u, Buurthuis, Hazenstraat 2 te Retie  
 
-\* vrijdag van 9.30u tot 11.30u, Parochiehuis, Markt 8 te Retie.
+\* vrijdag van 9.30u tot 11.30u, Parochiehuis, Markt 8 te Retie (gaat niet door tot/met eind aug ivm corona).
 
 ![]()
