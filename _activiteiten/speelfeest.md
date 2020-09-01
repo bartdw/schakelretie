@@ -1,20 +1,14 @@
 ---
-title: Speelfeest
-tijdstip: 2020-08-08T09:00:54.940Z
-plaats: Gemeentepark Retie
+title: Crea - namiddag
+tijdstip: 2020-09-09T12:00:54.940Z
+plaats: Buurthuis
 ---
-**Jij komt toch ook?**
+**Crea namiddag voor kinderen tot 12jaar**
 
-**Activiteiten:** zaklopen, speeltuin, touwtrekken, stoelendans, ... 
+**Wie:** Kinderen tot 12 jaar,
 
-Schakel Retie zorgt voor picknick en drank.  
+**Wanneer:** Woensdag 9 september van 14u tot 16u,  
 
-Toegang gratis. 
+**Waar:** Buurthuis, Hazenstraat 2 2470 Retie,
 
-**Wie:** Kinderen tot 12 jaar, begeleid door minstens 1 ouder,  
-
-**Wanneer:** Zaterdag 8 augustus van 11u tot 16u,  
-
-**Waar:** Gemeentepark Retie (achter gemeentehuis)
-
- **Inschrijven** is verplicht - voor 4 augustus via www.schakelretie.be of tel 0497 244 701.
+ **Inschrijven** is verplicht - voor 8 september via www.schakelretie.be - contact of tel 0497 244 701.
