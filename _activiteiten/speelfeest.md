@@ -3,9 +3,11 @@ title: Crea - namiddag
 tijdstip: 2020-09-09T12:00:54.940Z
 plaats: Buurthuis
 ---
-**Crea namiddag voor kinderen tot 12jaar**
+**Crea namiddag voor kinderen** 
 
-**Wie:** Kinderen tot 12 jaar,
+Kom je mee tekenen en schilderen? In deze workshop gaan we samen creatief bezig zijn. We vertrekken van enkele ideetjes en gaan zelf onze eigen kunstwerkjes maken. Doe je speelkleren aan en kom mee schilderen!
+
+**Wie:** Voor alle kinderen tussen 5 en 10 jaar,
 
 **Wanneer:** Woensdag 9 september van 14u tot 16u,  
 
