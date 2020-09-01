@@ -17,6 +17,8 @@ Voor deze mensen willen we er zijn ! <br><br>
 
 <FONT SIZE="+1" COLOR="#FFFFFF" FACE="">
 
-\* <a href="https://github.com/bartdw/schakelretie/raw/master/200630 Flyer.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER</a>
+Voor inschrijving: scroll naar "Contact" en stuur ons je bericht.
+
+<a href="https://github.com/bartdw/schakelretie/raw/master/200630 Flyer.pdf" style="color: #FFFFFF" target="_blank">DOWNLOAD HIER ONZE FLYER</a>
 
 </FONT>
