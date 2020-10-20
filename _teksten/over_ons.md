@@ -5,7 +5,7 @@ title: Over ons
 
 Schakel Retie wil een warme omgeving bieden waar iedereen terecht kan, ook mensen die in het dagelijkse leven minder kansen krijgen, bijvoorbeeld door ziekte, tegenslag, scheiding, armoede, migratie...   <br>
 
-We organizeren ontmoetingen en activiteiten en willen zo mensen bij elkaar  brengen en sociale uitsluiting tegengaan.  <br><br>
+We organizeren ontmoetingen en activiteiten en willen zo mensen bij elkaar  brengen en sociale uitsluiting tegengaan. Wekelijks is er voedselbedeling op zaterdagochtend in De Mantel. <br><br>
 
 Als je denkt dat je nood hebt aan onze groep…<br>
 
