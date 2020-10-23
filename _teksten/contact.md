@@ -21,6 +21,6 @@ vul dit contact formulier in.<br><br>
 
 Door het invullen van het contactformulier ga je akkoord met onze privacy regels.<br>
 
-<a href="https://github.com/bartdw/schakelretie/raw/master/190313%20Schakel%20Retie%20privacyverklaring%20website.pdf" style="color: #059abd" target="_blank">Zie onze privacy verklaring versie 22 maart 2019</a>
+<a href="https://drive.google.com/file/d/1BI6Y2VTRdYWzvlrUttypICHL500tjNQf/view?" style="color: #059abd" target="_blank">Zie onze privacy verklaring versie 23 oktober 2020</a>
 
 </FONT>
